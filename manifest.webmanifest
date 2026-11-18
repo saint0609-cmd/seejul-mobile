@@ -1,0 +1,16 @@
+{
+  "name": "씨줄 모바일",
+  "short_name": "씨줄",
+  "description": "구글드라이브의 원고·상세기획·위키를 휴대폰에서 읽고 고친다",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#191b1d",
+  "theme_color": "#191b1d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
